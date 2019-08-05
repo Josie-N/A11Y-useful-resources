@@ -1,5 +1,8 @@
 # A11Y-useful-resources
 
+If you're anything like me, you may sometimes struggle to find the right A11Y resources when you actually need them.
+
+Here's my list of articles and libraries that helped me understand this topic better, I revisit them whenever I want to dive deeper, need some guidance or just want check my facts. 🤓
 
 ### Web Accessibility In Context
 
