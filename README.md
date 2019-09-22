@@ -23,7 +23,6 @@ Here's my list of articles and libraries that helped me understand this topic be
 
 - https://www.nngroup.com/articles/writing-for-lower-literacy-users/?fbclid=IwAR0ZeMLwo6636Xmh755T9SzhvPykz8LYgvEBiELU6z0AE5_Pvc3ui3TboN8
 
+[Practical aria examples](http://heydonworks.com/practical_aria_examples/)
 
-### ARIA Examples
-
-- http://heydonworks.com/practical_aria_examples/
+[Using hidden and aria-hidden](https://developer.paciellogroup.com/blog/2012/05/html5-accessibility-chops-hidden-and-aria-hidden/)
